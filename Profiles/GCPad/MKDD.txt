@@ -1,0 +1,24 @@
+[Profile]
+Device = XInput/0/Gamepad
+Buttons/A = Trigger R
+Buttons/B = Trigger L
+Buttons/X = Right Y-
+Buttons/Y = Button A|Shoulder L
+Buttons/Z = Button X
+Buttons/Start = Start
+Main Stick/Up = Left Y+
+Main Stick/Down = Left Y-
+Main Stick/Left = Left X-
+Main Stick/Right = Left X+
+C-Stick/Up = Right Y+
+C-Stick/Down = Right Y-
+C-Stick/Left = Right X-
+C-Stick/Right = Right X+
+Triggers/R = Button B
+Triggers/L-Analog = Thumb L
+Triggers/R-Analog = Thumb R
+Rumble/Motor = Motor L|Motor R
+D-Pad/Up = Pad N
+D-Pad/Down = Pad S
+D-Pad/Left = Pad W
+D-Pad/Right = Pad E
